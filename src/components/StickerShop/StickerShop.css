@@ -1,0 +1,15 @@
+.stickers_ {
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+.zagolovok{
+    text-shadow:  0 0 0.1em rgb(183, 0, 255), 0 0 0.05em rgb(132, 0, 255);
+}
+.zagolovok1{
+   
+        text-shadow:  0 0 0.1em rgb(183, 0, 255), 0 0 0.1em rgb(132, 0, 255);
+        font-size: 25px;
+        text-align: center;
+        margin-top: -10px;
+        margin-bottom: 15px;
+}

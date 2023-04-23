@@ -1,0 +1,15 @@
+.crystall{
+   margin-left: 71%;
+   margin-bottom: 12px;
+}
+.crystalNumber{
+    margin-bottom: 20px;
+    margin-left: 18%;
+    color: white;
+    font-size: 40px;
+    float: left;
+    text-shadow:  0 0 1.9em blue, 0 0 0.1em blue;
+}
+.menu{
+    float: left;
+}

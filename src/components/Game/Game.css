@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap');
+
+
+
+
+body {
+	background-color: #30384b;
+	color: #eee;
+}
+
+main {
+	padding-top: 50px;
+	max-width: auto;
+	margin: 0 auto;
+	text-align: center;
+}
+.timer {
+	padding-top: 0%;
+}
+.timer_timer {
+margin-top: -30px;
+margin-bottom: 15px;
+}
+.zagolovok {
+	font-size: 25px;
+	text-shadow: 1px 1px 1px #000;
+	text-align: center;
+	margin-top: -10px;
+	margin-bottom: 15px;
+}
+.right_answer {
+	cursor: not-allowed;
+    pointer-events: none
+}
+.wrong_answer {
+	cursor: not-allowed;
+    pointer-events: none
+}
+.continue {
+	background-color: transparent;
+	cursor: not-allowed;
+    pointer-events: none;
+	color: #F8F9FA;
+}
+.endButton {
+	cursor: not-allowed;
+	pointer-events: none;
+	background-color: transparent;
+	color: #F8F9FA;
+	width:100%;
+	display: flex;
+	justify-content: center;
+	text-decoration: none;
+}
+.endButtonOnClick{
+	width:100%;
+	display: flex;
+	justify-content: center;
+	text-decoration: none;
+}
+.gapButton {
+	margin-bottom: 40px;
+}
